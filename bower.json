@@ -1,0 +1,20 @@
+{
+  "name": "Boush",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Misterhex/Boush",
+  "authors": [
+    "Yong Heng <yongheng@live.com.sg>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "*",
+    "bootstrap": "~3.1.1"
+  }
+}

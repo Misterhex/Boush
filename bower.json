@@ -3,9 +3,11 @@
   "version": "0.0.0",
   "homepage": "https://github.com/Misterhex/Boush",
   "authors": [
-    "Yong Heng <yongheng@live.com.sg>"
+    "misterhex <yongheng@live.com.sg>"
   ],
+  "devDependencies": {},
   "license": "MIT",
+  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
@@ -14,7 +16,9 @@
     "tests"
   ],
   "dependencies": {
+    "bootstrap": "~3.1.1",
     "angularjs": "*",
-    "bootstrap": "~3.1.1"
+    "angular": "1.2.16",
+    "d3": "~3.4.6"
   }
 }
